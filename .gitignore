@@ -1,0 +1,7 @@
+#
+#  GIT IGNORE FILE for DSC-611 Final Project
+# This file controls what files are tracked by GIT
+#
+
+# Ignore Tableau Temporary Files
+*.twbr
