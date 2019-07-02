@@ -8,7 +8,7 @@ Louis Ciotti
 Candyce Griffin
 Solomon Makoni
 
-The Visualization system is located within a [Tableau Workbook](../Final_Project.twb), located in the Dashboard Tab
+The Visualization system is located within a [Tableau Workbook](/Final_Project.twbx), located in the Dashboard Tab
 
 The viewer can select various data to display for ZCTA regions with data:
 
