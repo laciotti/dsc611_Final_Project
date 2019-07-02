@@ -1,7 +1,7 @@
 #
 #### DSC-611 Final Project Group A GIT Repository
 
-![alt text](https://github.com/laciotti/dsc611_Final_Project/blob/master/Images/Hospital%20Closures%20RuralUrban.png "Logo Title Text 1")
+![Group A Logo](/Images/Hospital%20Closures%20RuralUrban.png "Logo")
 
 ## Team Members
 Louis Ciotti
